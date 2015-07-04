@@ -40,7 +40,7 @@
     },
     "dependencies": {
         "commander": "2.0.0",
-        "csscomb-core": "3.0.0-3",
+        "csscomb-core": "git+https://github.com/aquach/csscomb-core.git",
         "gonzales-pe": "git+https://github.com/aquach/gonzales-pe.git#mine",
         "vow": "0.4.4"
     },
