@@ -41,7 +41,7 @@
     "dependencies": {
         "commander": "2.0.0",
         "csscomb-core": "3.0.0-3",
-        "gonzales-pe": "3.0.0-28",
+        "gonzales-pe": "git+https://github.com/aquach/gonzales-pe.git#dev",
         "vow": "0.4.4"
     },
     "devDependencies": {
